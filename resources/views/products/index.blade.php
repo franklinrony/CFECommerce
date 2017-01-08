@@ -1,14 +1,4 @@
-<?php
-/**
- * Creado por equipo de desarrollo RE.
- * Fecha: 01/01/2017
- * Hora: 05:18 PM
- * Editado por:
- * Fecha:
- * Editado por:
- * Fecha:
- */
-@extends("layouts.app")
+@extends("layouts.app");
 @section("content")
     <div class="big-padding text-center blue-grey white-text">
         <h1>Productos</h1>
@@ -39,4 +29,3 @@
 
     </div>
     @endsection
-?>
